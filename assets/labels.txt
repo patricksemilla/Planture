@@ -1,0 +1,18 @@
+0 Acalypha Hispida
+1 Adenium
+2 Bougainvillea
+3 Coleus Blumei
+4 Fern
+5 Ficus Microcarpa
+6 Golden Dewdrop
+7 Hibiscus
+8 Plumeria
+9 Portulaca Grandiflora
+10 Yellow Bell
+11 Chinese Evergeen
+12 Earth Star
+13 Geranium Aralia
+14 Golden Pothos
+15 Mexican Petunia
+16 Mother of Thousands
+17 Snake Plant

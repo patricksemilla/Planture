@@ -1,0 +1,9 @@
+0 Black Spot
+1 Downy Mildew
+2 Gray Mold
+3 Mosaic Virus
+4 Powdery Mildew
+5 Rust
+6 Sooty Mold
+7 Leaf Gall
+8 Blight
